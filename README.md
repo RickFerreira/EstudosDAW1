@@ -1,6 +1,6 @@
 <div align="center">
   
-# EstudosDAW1
+# EstudosDesenvolvimentoWeb
   
 <h4> 
 
@@ -11,10 +11,10 @@ Nesse repositório eu armazeno todas as atividades e projetos realizados durante
    
 <p>
 <!-- Image Shields -->
-<img  alt="Language Top"  src="https://img.shields.io/github/languages/top/RickFerreira/EstudosDAW1">
-<img  alt="Languages Count"  src="https://img.shields.io/github/languages/count/RickFerreira/EstudosDAW1">
-<img  alt="Last Commit"  src="https://img.shields.io/github/last-commit/RickFerreira/EstudosDAW1">
-<img  alt="Repo Size"  src="https://img.shields.io/github/repo-size/RickFerreira/EstudosDAW1">
+<img  alt="Language Top"  src="https://img.shields.io/github/languages/top/RickFerreira/EstudosDesenvolvimentoWeb">
+<img  alt="Languages Count"  src="https://img.shields.io/github/languages/count/RickFerreira/EstudosDesenvolvimentoWeb">
+<img  alt="Last Commit"  src="https://img.shields.io/github/last-commit/RickFerreira/EstudosDesenvolvimentoWeb">
+<img  alt="Repo Size"  src="https://img.shields.io/github/repo-size/RickFerreira/EstudosDesenvolvimentoWeb">
 </a>
 </p>
 <br>
@@ -47,6 +47,6 @@ Nesse repositório eu armazeno todas as atividades e projetos realizados durante
   </tr>
 </table>
 
-[☝🏽 Voltar ao topo](#EstudosDAW1)<br>
+[☝🏽 Voltar ao topo](#EstudosDesenvolvimentoWeb)<br>
 
 </div>
